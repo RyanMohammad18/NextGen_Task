@@ -1,0 +1,16 @@
+
+.container h1 {
+  font-size: 34px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+.learnmorebtn{
+    border: 1px solid #003080;
+    color: #003080;
+    width: 237px;
+    padding: 20px 65px;
+    background-color: #FFFFFF;
+    font-size: 18px;
+    font-weight: 700;
+    border-radius: 6px;
+}

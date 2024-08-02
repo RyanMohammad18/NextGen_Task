@@ -1,0 +1,26 @@
+.imageWrapper {
+  position: relative;
+  display: inline-block;
+}
+
+.exploresticker {
+  width: 170px;
+  height: 170px;
+  border-radius: 50%;
+  background-color: #003080;
+  position: absolute;
+  bottom: 42px;
+  left: -85px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #ffffff;
+  padding: 0;
+}
+.exploresticker p{
+    font-size: 1rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    text-align: center;
+    line-height: 22px;
+}

@@ -1,0 +1,71 @@
+.calendarcontainer {
+  position: relative;
+}
+
+.imageWrapper {
+  position: relative;
+  display: inline-block;
+  width: 562px;
+}
+
+.imageWrapper img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 6px;
+}
+
+.calendarContent {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  box-sizing: border-box;
+  border-radius: 6px;
+}
+
+.maindate {
+  background-color: #003080;
+  color: white;
+  padding: 26px;
+  border-radius: 6px;
+  text-align: center;
+}
+
+.sidedate {
+  background-color: #003fa9;
+  color: white;
+  padding: 26px;
+  border-radius: 0 0 5px 5px;
+  text-align: left;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.maindate p,
+.sidedate p {
+  margin: 0;
+}
+.maindate h1 {
+  font-weight: 700;
+}
+.subevents{
+    border-bottom: 2px solid #00308026;
+    
+}
+.subevents h1{
+font-weight: 700;
+font-size: 22px;
+color: #333333;
+}
+.subevents p{
+    font-size: 15px;
+    font-weight: 500;
+    text-align: justify;
+    color: #21252999;
+    line-height: 24px;
+    padding-bottom: 1rem;
+}
+.secondcontainer{
+    width: 756px;
+}

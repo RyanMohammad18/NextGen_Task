@@ -1,0 +1,14 @@
+.titlefour{
+    color: #212529;
+    font-size: 27px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+.titledesc{
+    margin: 30px 0 0 0;
+    color: #21252999;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 30px;
+    text-align: justify;
+}

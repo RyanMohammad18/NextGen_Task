@@ -1,0 +1,28 @@
+.navbuttons{
+    background-color: #FFE600;
+    padding: 0.75rem;
+    color: #000000;
+    font-size: 0.75rem;
+}
+.container h1 {
+    font-size: 34px;
+    font-weight: 700;
+    text-transform: uppercase;
+  }
+  .container p{
+    padding: 0 110px;
+    font-weight: 500;
+    color: #21252999;
+    font-size: 18px;
+    line-height: 26px;
+  }
+  .learnmorebtn{
+    border: 1px solid #003080;
+    color: #003080;
+    width: 237px;
+    padding: 20px 65px;
+    background-color: #FFFFFF;
+    font-size: 18px;
+    font-weight: 700;
+    border-radius: 6px;
+}

@@ -1,0 +1,38 @@
+.noticecontainer {
+  display: flex;
+  flex-direction: column;
+  gap: 17px;
+  width: 630px;
+    
+}
+.noticecontainer img {
+
+  height: 315px;
+  border-radius: 18px;
+}
+.date {
+ 
+  font-size: 1rem;
+  font-weight: 500;
+  color: #95969a;
+}
+.noticecontainer h1 {
+  font-size: 24px;
+  font-weight: 600;
+  color: #212529;
+}
+.eventimg{
+    width: 300px;
+    height: 150px;
+    border-radius: 18px;
+}
+.eventtitle{
+    font-size: 22px;
+    font-weight: 600;
+    color: #212529;
+}
+.noticetitle{
+    color: #212529;
+    font-size: 34px;
+    font-weight: 700;
+}

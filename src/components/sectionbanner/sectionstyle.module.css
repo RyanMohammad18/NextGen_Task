@@ -1,0 +1,26 @@
+.sectionbannercontainer {
+  position: relative;
+  padding: 90px 70px;
+}
+.container {
+  position: relative;
+  width: 100%;
+  height: auto;
+}
+.container img {
+  width: 100%;
+  height: auto;
+  display: block;
+  margin: 75px 0 0 0;
+}
+.firstcard {
+  position: absolute;
+  top: -80px;
+  right: 42px;
+}
+
+.secondcard {
+  position: absolute;
+  bottom: -190px;
+  left: 40px;
+}
