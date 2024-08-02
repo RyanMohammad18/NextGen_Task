@@ -8,7 +8,6 @@ const ImageContainer = ({explorestickertitle}) => {
       <div>
         <div className={style.imageWrapper}>
           <div className={style.exploresticker}>
-            {/* <p>Explore Product</p> */}
             <p>{explorestickertitle}</p>
           </div>
 

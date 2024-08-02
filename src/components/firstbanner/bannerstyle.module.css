@@ -2,8 +2,8 @@
   padding: 50px 90px;
   background: url("../../Images/Herosection/heroimage.png") no-repeat center
     center;
-  background-size: cover; /* Ensure the image covers the entire container */
-  position: relative; /* Needed for the overlay to position correctly */
+  background-size: cover; 
+  position: relative;
 }
 
 .container::before {

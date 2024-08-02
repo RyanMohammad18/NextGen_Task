@@ -98,12 +98,10 @@ const CalendarEvent = () => {
               </p>
             </FlexContainer>
           </FlexContainer>
-      
-            <MoreButton text="Learn More"/>
-          
+
+          <MoreButton text="Learn More" />
         </FlexContainer>
       </FlexContainer>
-      
     </div>
   );
 };

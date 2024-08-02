@@ -10,6 +10,7 @@ import SliderSection from "./components/slidersection/SliderSection";
 import NoticeEvent from "./components/eventNoticeSection/NoticeEvent";
 import CalendarEvent from "./components/calendareventssection/CalendarEvent";
 import VideoSection from "./components/videosection/VideoSection";
+import Footer from "./components/footer/Footer";
 
 function App() {
   return (
@@ -28,6 +29,7 @@ function App() {
       <NoticeEvent/>
       <CalendarEvent/>
       <VideoSection/>
+      <Footer/>
     </>
   );
 }
